@@ -80,8 +80,6 @@ nav ul li:hover a{
     height: 11rem;
 }
 #skillSection ul{
-        background-color: #1818181f;
-        padding-right: 10px;
         display: flex;
         flex-wrap: wrap;
         gap: 3rem;
